@@ -5,4 +5,4 @@ The cardioguardian is an interactive Rshiny app. The survival prediction model i
 individual and fitted population average. And the bottom one shows the
 histogram of population survivals in the selected timepoint, when you hover your
 mouse above the red and blue lines you can see the label showing the predicted survival
-probabilities for the individual at any specific timepoint. Also, there is a table listing the exact probabilities and percentiles for the individual above the plot.
+probabilities for the individual at any specific timepoint. Also, there is a table summarizing the exact probabilities and percentiles for the individual above the plot.
